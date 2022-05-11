@@ -1,0 +1,28 @@
+.featured {
+    height: 100vh;
+};
+.featured--vertical {
+    width:inherit;
+    height:inherit;
+    background:linear-gradient(to top, #111, transparent 90%);
+};
+.featured--horizontal {
+    width:inherit;
+    height:inherit;
+    background:linear-gradient(to right, #111 30%, transparent 70%);
+};
+
+
+.featured--info {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+
+}
+.featured--points {
+    color: #46d349;
+}
+.featured--description {
+    margin-top: 15px;
+    
+}
